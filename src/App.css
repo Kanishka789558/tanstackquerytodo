@@ -79,3 +79,8 @@ li:hover {
 li strong {
   color: #222;
 }
+.btn-group {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
